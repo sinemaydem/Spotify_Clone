@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Spotify_Clone</string>
+    <string name="tab_all">Tümü</string>
+    <string name="tab_music">Müzik</string>
+    <string name="tab_podcasts">Podcast\'ler</string>
+    <string name="recommended_stations">Tavsiye Edilen İstasyonlar</string>
+    <string name="recently_played">Son çalınanlar</string>
+    <string name="show_all">Tümünü göster</string>
+    <string name="made_for_you">Sizin İçin Derlendi</string>
+    <string name="playlist">Çalma Listesi</string>
+    <string name="artist">Sanatçı</string>
+    <string name="radio">Radyo</string>
+    <string name="liked_songs">Beğenilen Şarkılar</string>"
+
+
+    <string name="system_playlist">Çalma Listesi • Sinem</string>
+
+    <string name="library_one">Beğenilen Şarkılar</string>
+    <string name="library_two">GYM Playlist</string>
+    <string name="library_three">Türkçe Pop</string>
+    <string name="library_four">Kişisel Gelişim</string>
+    <string name="library_five">Life is Like a Song</string>
+    <string name="library_six">Film ve Dizilerden Müzikler</string>
+    <string name="library_seven">Hype</string>
+
+
+    <string name="library_one_value">Çalma Listesi • 153 şarkı </string>
+    <string name="library_two_value">Podcast • Sesli Kitap Dünyası </string>
+    <string name="library_three_value">Çalma Listesi • Öznur </string>
+
+
+    <string name="search_suggestions">Podcasts</string>
+    <string name="search_title1">Müzik</string>
+    <string name="search_title2">Podcast\'ler</string>
+    <string name="search_title3">Canlı Etkinlikler</string>
+    <string name="search_title4">Yeni Çıkanlar</string>
+    <string name="search_title5">Pop</string>
+    <string name="search_title6">Hip Hop</string>
+    <string name="search_title7">Ruh Hali</string>
+    <string name="search_title8">Rock</string>
+    <string name="search_title9">EQUAL</string>
+    <string name="search_title10">Senin İçin Hazırlandı</string>
+    <string name="search_title11">Fitness</string>
+    <string name="search_title12">Eğitim</string>
+
+
+
+</resources>
