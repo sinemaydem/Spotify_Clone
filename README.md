@@ -27,13 +27,6 @@ This project is a **Spotify Clone** built using **Kotlin** and **Jetpack Compose
    flutter pub get
    ```
 
-### Running the App
-1. Start an emulator or connect a physical device.
-2. Run the app:
-   ```bash
-   flutter run
-   ```
-
 ---
 
 Feel free to explore the repository and provide any feedback. Enjoy coding!
