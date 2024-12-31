@@ -13,19 +13,18 @@ This project is a **Spotify Clone** built using **Kotlin** and **Jetpack Compose
 ## Screenshots
 
 ### Home Page
+### Home Page
 
-![anasayfa1](https://github.com/user-attachments/assets/0836b2e3-206a-4d85-a85f-791f15a12cb3)
+![anasayfa1](https://github.com/user-attachments/assets/0836b2e3-206a-4d85-a85f-791f15a12cb3 =500x300)
 
-![anasayfa2](https://github.com/user-attachments/assets/b9fdf6d8-76c1-4ee6-a711-316be33d2bd8)
-
+![anasayfa2](https://github.com/user-attachments/assets/b9fdf6d8-76c1-4ee6-a711-316be33d2bd8 =500x300)
 
 ### Search Page
-![Search Page](![keşfet](https://github.com/user-attachments/assets/c3ab1264-062c-4a00-8fe7-cc2cd6f30d0e)
- )
+![keşfet](https://github.com/user-attachments/assets/d513710e-533a-4dd8-ad0c-c7da1fbb177a =500x300)
 
 ### Library Page
-![Library Page](![kitaplık](https://github.com/user-attachments/assets/33cf7ca3-14e7-4ca3-b8c0-d843ee56a993)
-)
+![kitaplık](https://github.com/user-attachments/assets/423dab87-6843-48ca-b651-8e91ad00b318 =500x300)
+
 
 ## Getting Started
 
