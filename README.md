@@ -13,9 +13,10 @@ This project is a **Spotify Clone** built using **Kotlin** and **Jetpack Compose
 ## Screenshots
 
 ### Home Page
+<img src="(https://github.com/user-attachments/assets/fe9c2062-9505-4e59-bf7b-e51788821eee)" width="300" />
+![anasayfa1](https://github.com/user-attachments/assets/fe9c2062-9505-4e59-bf7b-e51788821eee)
+![anasayfa2](https://github.com/user-attachments/assets/bc4a843b-a43e-4f0b-8b0c-7974fa2c4a0f)
 
-![anasayfa1](https://github.com/user-attachments/assets/2500fdb3-e9e5-4fff-ae20-8c44154c648c = 500x300)
-![anasayfa2](https://github.com/user-attachments/assets/6dd317b7-759f-4762-81a8-53473702ecc3 = 500x300)
 
 
 ### Search Page
